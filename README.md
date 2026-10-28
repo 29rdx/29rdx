@@ -1,7 +1,7 @@
-# 💫 Yo 👋, I'm Rupraj Datta
+# Yo 👋, I'm Rupraj Datta
 **A Passionate Software Engineer || AiMl Engineer || TechGeek**
 
-Email Me 👉 ✉️ **dattarupraj@gmain.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **dattarupraj@gmain.com** For Collaboration/Project or Anything Else. 
 
 - 🔭 **I’m currently studying in:** Bennett University
 - 🌱 **I’m currently learning:** bTech CSE
@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **dattarupraj@gmain.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** RDX!
 - ⚡ **Fun fact:** Having a Healthy Relationship With Robots!
 
-# 💫 About Me:
+# About Me:
 Enthusiastic B.Tech CSE student at Bennett University, driven to build impactful AI/ML and GenAI solutions. Certified by Google, AWS, Deloitte, JP Morgan, Infosys, and HP. I work with Python (and its ML/data libraries), Java, HTML, GenAI, and prompt engineering. Created Raksha, a women’s safety alert app, and an AI-powered plant leaf disease detector for smarter agriculture. Passionate about human-centered AI, constantly exploring new models and tools to turn real-world problems into intelligent, production-ready solutions.
 
 <!-- Snake Game Repo View -->
