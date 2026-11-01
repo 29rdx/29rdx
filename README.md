@@ -17,30 +17,14 @@ Enthusiastic B.Tech CSE student at Bennett University, driven to build impactful
 ## 🏅 GitHub Achievements
 
 <div align="center">
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="85px" alt="Pull Shark Gold" title="Pull Shark (Gold) • Opened pull requests that were merged" />
-  </a>
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="85px" alt="Quickdraw" title="Quickdraw • Closed an issue or PR within 5 minutes" />
-  </a>
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="85px" alt="YOLO" title="YOLO • Merged a pull request without code review" />
-  </a>
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="85px" alt="Pair Extraordinaire Gold" title="Pair Extraordinaire (Gold) • Co-authored commits on merged pull requests" />
-  </a>
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="85px" alt="Galaxy Brain Gold" title="Galaxy Brain (Gold) • Answered discussions with accepted answers" />
-  </a>
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Star-Struck/PNG/StarStruck_Gold.png" width="85px" alt="Starstruck Gold" title="Starstruck (Gold) • Created repositories with stars" />
-  </a>
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" width="85px" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor • Contributed code to 2020 GitHub Archive" />
-  </a>
-  <a href="https://github.com/29rdx?tab=achievements" target="_blank">
-    <img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="85px" alt="Public Sponsor" title="Public Sponsor • Sponsored open source contributors" />
-  </a>
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="85px" alt="Pull Shark Gold" title="Pull Shark (Gold) • Opened pull requests that were merged" /></a>&nbsp;
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="85px" alt="Quickdraw" title="Quickdraw • Closed an issue or PR within 5 minutes" /></a>&nbsp;
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="85px" alt="YOLO" title="YOLO • Merged a pull request without code review" /></a>&nbsp;
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="85px" alt="Pair Extraordinaire Gold" title="Pair Extraordinaire (Gold) • Co-authored commits on merged pull requests" /></a>&nbsp;
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="85px" alt="Galaxy Brain Gold" title="Galaxy Brain (Gold) • Answered discussions with accepted answers" /></a>&nbsp;
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Star-Struck/PNG/StarStruck_Gold.png" width="85px" alt="Starstruck Gold" title="Starstruck (Gold) • Created repositories with stars" /></a>&nbsp;
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/2020-Arctic-Code-Vault-Contributor/PNG/2020ArcticCodeVaultBadge.png" width="85px" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor • Contributed code to 2020 GitHub Archive" /></a>&nbsp;
+<a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="85px" alt="Public Sponsor" title="Public Sponsor • Sponsored open source contributors" /></a>
 </div>
 
 ## 🌐 Socials:
