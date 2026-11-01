@@ -4,6 +4,7 @@
 ### **Software & Backend Systems Engineer • Cybersecurity & Distributed Systems**
 
 [![GitHub](https://img.shields.io/badge/GitHub-29rdx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/29rdx)
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-388bfd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://29rdx.github.io/my29portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dattarupraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattarupraj)
 [![X (Twitter)](https://img.shields.io/badge/X-@Rupraj29-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rupraj29)
 [![Email](https://img.shields.io/badge/Email-dattarupraj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com)
@@ -71,7 +72,7 @@ Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-securi
 | **[🛡️ sentinel-dpi-engine](https://github.com/29rdx/sentinel-dpi-engine)** | High-Throughput Multi-Threaded Deep Packet Inspection (DPI) & Threat Detection Engine with 802.1Q VLAN, IPv6, and bounds-checked TLS SNI. | `C++17` `DPI` `Cybersecurity` `PCAP` | [![Stars](https://img.shields.io/github/stars/29rdx/sentinel-dpi-engine?style=flat&color=yellow)](https://github.com/29rdx/sentinel-dpi-engine/stargazers) |
 | **[🛡️ backend-security-sentinel](https://github.com/29rdx/backend-security-sentinel)** | Production-ready Backend Security Audit & Vulnerability Scanner for OWASP API Security, JWT inspection, and header hardening. | `Python` `OWASP` `DevSecOps` | [![Stars](https://img.shields.io/github/stars/29rdx/backend-security-sentinel?style=flat&color=yellow)](https://github.com/29rdx/backend-security-sentinel/stargazers) |
 | **[⚡ distributed-telemetry-engine](https://github.com/29rdx/distributed-telemetry-engine)** | High-throughput distributed systems telemetry collector and real-time metrics streaming pipeline for cloud clusters. | `Go` `Concurrency` `Telemetry` | [![Stars](https://img.shields.io/github/stars/29rdx/distributed-telemetry-engine?style=flat&color=yellow)](https://github.com/29rdx/distributed-telemetry-engine/stargazers) |
-| **[💼 my29portfolio](https://github.com/29rdx/my29portfolio)** | Interactive personal portfolio and software engineering showcase with live CLI emulator. | `HTML5` `CSS3` `JavaScript` | [![Stars](https://img.shields.io/github/stars/29rdx/my29portfolio?style=flat&color=yellow)](https://github.com/29rdx/my29portfolio/stargazers) |
+| **[💼 my29portfolio](https://github.com/29rdx/my29portfolio)** <br><sub>[🌐 Live Site](https://29rdx.github.io/my29portfolio/)</sub> | Interactive personal portfolio and software engineering showcase with live CLI emulator. | `HTML5` `CSS3` `JavaScript` | [![Stars](https://img.shields.io/github/stars/29rdx/my29portfolio?style=flat&color=yellow)](https://github.com/29rdx/my29portfolio/stargazers) |
 
 ---
 
