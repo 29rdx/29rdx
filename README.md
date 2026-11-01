@@ -41,9 +41,9 @@ Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-securi
     <td width="33%" valign="top">
       <h3>⚙️ Backend & Distributed Systems</h3>
       <ul>
-        <li>High-Concurrency APIs (FastAPI, Django, Express, Go)</li>
+        <li>High-Concurrency APIs (FastAPI, Express, Go)</li>
         <li>Microservices, Message Brokers & Event Queues</li>
-        <li>Relational & In-Memory Data Modeling (PostgreSQL, Redis, MySQL)</li>
+        <li>Relational & Enterprise Data Modeling (PostgreSQL, MySQL)</li>
         <li>Containerization & CI/CD Pipelines (Docker, GitHub Actions)</li>
         <li>Cloud Infrastructure (AWS, Google Cloud, Cloudflare)</li>
       </ul>
@@ -82,17 +82,14 @@ Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-securi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Backend Engineering & Persistence
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white)
 
@@ -105,12 +102,6 @@ Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-securi
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### AI, Machine Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
 
