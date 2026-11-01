@@ -1,20 +1,122 @@
-# Yo 👋, I'm Rupraj Datta
-**A Passionate Software Engineer || AiMl Engineer || TechGeek**
+<div align="center">
 
-Email Me 👉 ✉️ **dattarupraj@gmail.com** For Collaboration/Project or Anything Else. 
+# 🛡️ Rupraj Datta
+### **Software & Backend Systems Engineer • Cybersecurity & Distributed Systems**
 
-- 🔭 **I’m currently studying in:** Bennett University
-- 🌱 **I’m currently learning:** bTech CSE
-- 👯 **I’m looking to collaborate on:** AI-ML & Robotics Level Projects
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** dattarupraj@gmail.com
-- 😄 **Pronouns:** RDX!
-- ⚡ **Fun fact:** Having a Healthy Relationship With Robots!
+[![GitHub](https://img.shields.io/badge/GitHub-29rdx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/29rdx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dattarupraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattarupraj)
+[![X (Twitter)](https://img.shields.io/badge/X-@Rupraj29-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rupraj29)
+[![Email](https://img.shields.io/badge/Email-dattarupraj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com)
 
-# About Me:
-Enthusiastic B.Tech CSE student at Bennett University, driven to build impactful AI/ML and GenAI solutions. Certified by Google, AWS, Deloitte, JP Morgan, Infosys, and HP. I work with Python (and its ML/data libraries), Java, HTML, GenAI, and prompt engineering. Created Raksha, a women’s safety alert app, and an AI-powered plant leaf disease detector for smarter agriculture. Passionate about human-centered AI, constantly exploring new models and tools to turn real-world problems into intelligent, production-ready solutions.
+```text
+📍 Noida, India  •  🎓 B.Tech CSE (Bennett University)  •  💼 Backend Engineering & Cybersecurity
+```
 
-## 🏅 GitHub Achievements
+---
+
+</div>
+
+## 📌 Executive Summary
+
+Software Engineer specializing in **high-performance backend architectures**, **cybersecurity hardening**, and **distributed intelligent systems**. Experienced in engineering zero-trust API frameworks, microservice orchestration, automated security audits (OWASP Top 10), and autonomous AI agent environments. Certified by **Google, AWS, Deloitte, and JP Morgan**.
+
+Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-security-sentinel)**, **Raksha** (a women's emergency telemetry platform), and AI-powered computer vision diagnostics for smart agriculture.
+
+---
+
+## 🛠️ Core Engineering Pillars
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛡️ Cybersecurity & SecOps</h3>
+      <ul>
+        <li>OWASP API Security Top 10 Hardening</li>
+        <li>Zero-Trust & Secure Token Architectures (JWT / OAuth2)</li>
+        <li>Automated Vulnerability Scanning & Header Defense</li>
+        <li>CORS, XSS, CSRF, and Injection Mitigation</li>
+        <li>Network Packet Analysis & Penetration Probing</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Backend & Distributed Systems</h3>
+      <ul>
+        <li>High-Concurrency APIs (FastAPI, Django, Express, Go)</li>
+        <li>Microservices, Message Brokers & Event Queues</li>
+        <li>Relational & In-Memory Data Modeling (PostgreSQL, Redis, MySQL)</li>
+        <li>Containerization & CI/CD Pipelines (Docker, GitHub Actions)</li>
+        <li>Cloud Infrastructure (AWS, Google Cloud, Cloudflare)</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 Autonomous AI & Edge Runtimes</h3>
+      <ul>
+        <li>Autonomous AI Agent Orchestration (Hermes on Apple Silicon)</li>
+        <li>Computer Vision & Deep Learning (PyTorch, TensorFlow)</li>
+        <li>Production Tool Calling & Headless Browser Automation</li>
+        <li>LLM Evaluation & Model Context Hardening</li>
+        <li>Telemetry & Real-Time Contribution Pipelines</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Flagship Repositories
+
+| Repository | Focus & Architecture | Tech Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| **[🛡️ backend-security-sentinel](https://github.com/29rdx/backend-security-sentinel)** | Production-ready Backend Security Audit & Vulnerability Scanner for OWASP API Security, JWT inspection, and header hardening. | `Python` `OWASP` `DevSecOps` | [![Stars](https://img.shields.io/github/stars/29rdx/backend-security-sentinel?style=flat&color=yellow)](https://github.com/29rdx/backend-security-sentinel/stargazers) |
+| **[📈 odeus-activity](https://github.com/29rdx/odeus-activity)** | Automated developer contribution telemetry and cloud-native CI/CD streak automation matrix. | `GitHub Actions` `CI/CD` `Python` | [![Stars](https://img.shields.io/github/stars/29rdx/odeus-activity?style=flat&color=yellow)](https://github.com/29rdx/odeus-activity/stargazers) |
+| **[🌐 newNakshatra-x](https://github.com/29rdx/newNakshatra-x)** | Next-generation full-stack web architecture and high-performance client interface. | `TypeScript` `React` `Tailwind` | [![Stars](https://img.shields.io/github/stars/29rdx/newNakshatra-x?style=flat&color=yellow)](https://github.com/29rdx/newNakshatra-x/stargazers) |
+| **[💼 my29portfolio](https://github.com/29rdx/my29portfolio)** | Interactive personal portfolio and software engineering showcase. | `HTML5` `CSS3` `JavaScript` | [![Stars](https://img.shields.io/github/stars/29rdx/my29portfolio?style=flat&color=yellow)](https://github.com/29rdx/my29portfolio/stargazers) |
+
+---
+
+## 💻 Curated Technical Arsenal
+
+<div align="center">
+
+### Languages & Core Runtimes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### Backend Engineering & Persistence
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=postman&logoColor=white)
+
+### Cybersecurity, Cloud & Infrastructure
+![OWASP](https://img.shields.io/badge/OWASP-Security-000000?style=flat-square&logo=owasp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### AI, Machine Learning & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Official GitHub Achievements
 
 <div align="center">
 <a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="85px" alt="Pull Shark Gold" title="Pull Shark (Gold) • Opened pull requests that were merged" /></a>&nbsp;
@@ -27,30 +129,32 @@ Enthusiastic B.Tech CSE student at Bennett University, driven to build impactful
 <a href="https://github.com/29rdx?tab=achievements" target="_blank"><img src="https://raw.githubusercontent.com/fenrir2608/badgeMaster/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="85px" alt="Public Sponsor" title="Public Sponsor • Sponsored open source contributors" /></a>
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rdx.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattarupraj) [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/Rupraj29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=29rdx&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=29rdx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=29rdx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 📊 Engineering Telemetry & Activity
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=29rdx&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=29rdx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165px" alt="GitHub Stats" />
+&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=29rdx&theme=tokyonight&hide_border=true" height="165px" alt="GitHub Streak" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=29rdx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29rdx&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="140px" alt="Top Languages" />
+&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=29rdx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" height="140px" alt="GitHub Trophies" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=29rdx&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/29rdx) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 Open Source & Star Community
+If you find any of my repositories, security tools, or backend libraries helpful:  
+⭐ **Please consider starring the repositories to support open-source engineering research!**
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=29rdx&icon=2&color=0)](https://visitcount.itsvg.in)
+
+</div>
