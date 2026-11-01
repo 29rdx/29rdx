@@ -67,9 +67,10 @@ Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-securi
 
 | Repository | Focus & Architecture | Tech Stack | Stars |
 | :--- | :--- | :--- | :--- |
+| **[🛡️ aegis-mesh-pay](https://github.com/29rdx/aegis-mesh-pay)** | Zero-Connectivity Cryptographic Mesh Payment Gateway: Offline UPI, Hardware Vouchers, RSA+AES-GCM & Merkle Ledger. | `Java` `Spring Boot` `Cryptography` `Zero-Trust` | [![Stars](https://img.shields.io/github/stars/29rdx/aegis-mesh-pay?style=flat&color=yellow)](https://github.com/29rdx/aegis-mesh-pay/stargazers) |
+| **[🛡️ sentinel-dpi-engine](https://github.com/29rdx/sentinel-dpi-engine)** | High-Throughput Multi-Threaded Deep Packet Inspection (DPI) & Threat Detection Engine with 802.1Q VLAN, IPv6, and bounds-checked TLS SNI. | `C++17` `DPI` `Cybersecurity` `PCAP` | [![Stars](https://img.shields.io/github/stars/29rdx/sentinel-dpi-engine?style=flat&color=yellow)](https://github.com/29rdx/sentinel-dpi-engine/stargazers) |
 | **[🛡️ backend-security-sentinel](https://github.com/29rdx/backend-security-sentinel)** | Production-ready Backend Security Audit & Vulnerability Scanner for OWASP API Security, JWT inspection, and header hardening. | `Python` `OWASP` `DevSecOps` | [![Stars](https://img.shields.io/github/stars/29rdx/backend-security-sentinel?style=flat&color=yellow)](https://github.com/29rdx/backend-security-sentinel/stargazers) |
 | **[⚡ distributed-telemetry-engine](https://github.com/29rdx/distributed-telemetry-engine)** | High-throughput distributed systems telemetry collector and real-time metrics streaming pipeline for cloud clusters. | `Go` `Concurrency` `Telemetry` | [![Stars](https://img.shields.io/github/stars/29rdx/distributed-telemetry-engine?style=flat&color=yellow)](https://github.com/29rdx/distributed-telemetry-engine/stargazers) |
-| **[🌐 newNakshatra-x](https://github.com/29rdx/newNakshatra-x)** | Next-generation full-stack web architecture and high-performance client interface. | `TypeScript` `React` `Tailwind` | [![Stars](https://img.shields.io/github/stars/29rdx/newNakshatra-x?style=flat&color=yellow)](https://github.com/29rdx/newNakshatra-x/stargazers) |
 | **[💼 my29portfolio](https://github.com/29rdx/my29portfolio)** | Interactive personal portfolio and software engineering showcase with live CLI emulator. | `HTML5` `CSS3` `JavaScript` | [![Stars](https://img.shields.io/github/stars/29rdx/my29portfolio?style=flat&color=yellow)](https://github.com/29rdx/my29portfolio/stargazers) |
 
 ---
@@ -128,7 +129,7 @@ Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-securi
 
 [![Total Contributions](https://img.shields.io/badge/Total_Contributions-1,320+_Commits-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/29rdx)
 [![Active Streak](https://img.shields.io/badge/Active_Coverage-340+_Days_(93%25)-388bfd?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/29rdx/distributed-telemetry-engine)
-[![Repositories](https://img.shields.io/badge/Public_Repositories-9_Engineered-f0883e?style=for-the-badge&logo=git&logoColor=white)](https://github.com/29rdx?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Public_Repositories-11_Engineered-f0883e?style=for-the-badge&logo=git&logoColor=white)](https://github.com/29rdx?tab=repositories)
 [![Security Standard](https://img.shields.io/badge/Security_Standard-OWASP_API_Top_10-da3633?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com/29rdx/backend-security-sentinel)
 [![Autonomous Stack](https://img.shields.io/badge/Autonomous_Runtime-Hermes_on_Apple_Silicon-8957e5?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/29rdx)
 
