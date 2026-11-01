@@ -131,19 +131,15 @@ Creator of **[Backend Security Sentinel](https://github.com/29rdx/backend-securi
 
 ---
 
-## 📊 Engineering Telemetry & Activity
+## 📊 Engineering Telemetry & Verified Benchmarks
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=29rdx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165px" alt="GitHub Stats" />
-&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=29rdx&theme=tokyonight&hide_border=true" height="165px" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=29rdx&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="140px" alt="Top Languages" />
-&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=29rdx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" height="140px" alt="GitHub Trophies" />
+[![Total Contributions](https://img.shields.io/badge/Total_Contributions-1,218+_Commits-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/29rdx)
+[![Active Streak](https://img.shields.io/badge/Active_Coverage-340+_Days_(93%25)-388bfd?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/29rdx/odeus-activity)
+[![Repositories](https://img.shields.io/badge/Public_Repositories-9_Engineered-f0883e?style=for-the-badge&logo=git&logoColor=white)](https://github.com/29rdx?tab=repositories)
+[![Security Standard](https://img.shields.io/badge/Security_Standard-OWASP_API_Top_10-da3633?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com/29rdx/backend-security-sentinel)
+[![Autonomous Stack](https://img.shields.io/badge/Autonomous_Runtime-Hermes_on_Apple_Silicon-8957e5?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/29rdx)
 
 </div>
 
