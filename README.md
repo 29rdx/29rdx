@@ -6,7 +6,6 @@ I build backend and security tools and contribute to open-source developer tooli
 **Seeking software engineering internships and entry-level opportunities** in backend engineering,
 security tooling, and observability, in India or internationally.
 
-[Portfolio](https://29rdx.github.io/my29portfolio/) ·
 [LinkedIn](https://www.linkedin.com/in/dattarupraj) ·
 [Email](mailto:dattarupraj@gmail.com)
 
@@ -23,7 +22,6 @@ These links show the changes, validation evidence, and review discussions.
 
 - **[Backend Security Sentinel](https://github.com/29rdx/backend-security-sentinel)** — Python API security tooling with modules for headers, CORS, JWT inspection, reporting, and automated tests.
 - **[Distributed Telemetry Engine](https://github.com/29rdx/distributed-telemetry-engine)** — Go telemetry project with collector, stream-buffer, and Prometheus-exporter components.
-- **[Personal portfolio](https://github.com/29rdx/my29portfolio)** — Web portfolio and project showcase.
 
 ## Technical interests
 
