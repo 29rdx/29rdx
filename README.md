@@ -14,12 +14,6 @@ Email Me 👉 ✉️ **dattarupraj@gmain.com** For Collaboration/Project or Anyt
 # About Me:
 Enthusiastic B.Tech CSE student at Bennett University, driven to build impactful AI/ML and GenAI solutions. Certified by Google, AWS, Deloitte, JP Morgan, Infosys, and HP. I work with Python (and its ML/data libraries), Java, HTML, GenAI, and prompt engineering. Created Raksha, a women’s safety alert app, and an AI-powered plant leaf disease detector for smarter agriculture. Passionate about human-centered AI, constantly exploring new models and tools to turn real-world problems into intelligent, production-ready solutions.
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rdx.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dattarupraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com) 
 
