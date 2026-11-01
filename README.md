@@ -14,7 +14,7 @@ security tooling, and observability, in India or internationally.
 | Project | Contribution | Status |
 | --- | --- | --- |
 | [Nigrani](https://github.com/nikhilrai-tech/Nigrani) | [Ratio units for fractional metrics and alert thresholds](https://github.com/nikhilrai-tech/Nigrani/pull/45), with backend/frontend regression tests and theme screenshots | Submitted for review |
-| [PyFuncAI](https://github.com/AaronCreor/PyFuncAI) | [JSON cache metadata listings](https://github.com/AaronCreor/PyFuncAI/pull/6), with offline tests and package checks | Draft; target-branch clarification pending |
+| [Shelfmark](https://github.com/calibrain/shelfmark) | [Disk-backed buffering for large debrid downloads](https://github.com/calibrain/shelfmark/pull/1632), with regression tests for interrupted downloads and cleanup | Submitted for review |
 
 These links show the changes, validation evidence, and review discussions.
 
