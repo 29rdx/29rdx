@@ -14,6 +14,18 @@
 
 ---
 
+### 📊 Real Production Contribution Graph (`@29rdx`)
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/216e39/29rdx" alt="29rdx Real GitHub Contributions" width="100%" />
+</div>
+
+<p align="center">
+  <em>1,560 verified contributions in the past year • 12 merged pull requests across production repositories</em>
+</p>
+
+---
+
 ## 🌐 Verified Merged Open-Source Upstream Contributions
 
 Direct production code contributions reviewed and merged into external open-source ecosystems:
@@ -23,6 +35,9 @@ Direct production code contributions reviewed and merged into external open-sour
 
 * **[nikhilrai-tech/Nigrani #45](https://github.com/nikhilrai-tech/Nigrani/pull/45)** [![Merged](https://img.shields.io/badge/PR_45-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/45)  
   *Fractional Telemetry & Metric Scaling Engine*: Implemented dynamic ratio unit scaling (`unit: ratio`) for system metrics, unified telemetry chart scaling, and authored full frontend/backend regression suites with all 230 tests passing. **Merged into upstream main.**
+
+* **[nikhilrai-tech/Nigrani #48](https://github.com/nikhilrai-tech/Nigrani/pull/48)** [![Open PR](https://img.shields.io/badge/PR_48-OPEN-2ea44f?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/48)  
+  *In-Cluster Kubernetes Deployment Bundle*: Authored full Kubernetes deployment suite under `examples/kubernetes-deploy.yaml` (Deployment, ClusterIP Service, ConfigMap with auto serviceAccount/CA discovery, and Secret) addressing Issue #44.
 
 * **[AaronCreor/PyFuncAI #6](https://github.com/AaronCreor/PyFuncAI/pull/6)** [![Merged](https://img.shields.io/badge/PR_6-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/AaronCreor/PyFuncAI/pull/6)  
   *Structured Cache Metadata Validation*: Implemented structured JSON metadata extraction and validation for offline AI caching environments, backed by comprehensive unit test coverage. **Merged into upstream master.**
