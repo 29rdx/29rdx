@@ -14,6 +14,18 @@
 
 ---
 
+## ⚡ Verified Top 1% Worldwide GitHub Contributor Intelligence
+
+<div align="center">
+  <a href="https://github.com/29rdx">
+    <img src="./assets/github-activity-radar.svg" alt="Top 1% Worldwide GitHub Contributor Activity Radar" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ## 🏆 Engineering Leadership & Hackathons
 
 ### **Team Head & Lead Architect — Team Nakshatra-X**
