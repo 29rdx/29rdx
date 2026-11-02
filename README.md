@@ -12,17 +12,7 @@
 
 > **🎯 Career Objective**: Actively seeking **Software Engineering Internships** and **Early Career Backend / Security Engineering Roles** (2026/2027). Open to on-site, hybrid, or remote opportunities globally. Focused on high-concurrency systems, application security hardening (OWASP), network protocol analysis, and production developer tooling.
 
----
 
-## ⚡ Verified Top 1% Worldwide GitHub Contributor Intelligence
-
-<div align="center">
-  <a href="https://github.com/29rdx">
-    <img src="./assets/github-activity-radar.svg" alt="Top 1% Worldwide GitHub Contributor Activity Radar" width="100%" />
-  </a>
-</div>
-
-<br/>
 
 ---
 
