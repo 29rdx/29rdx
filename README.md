@@ -14,17 +14,7 @@
 
 ---
 
-### 📊 Real Production Contribution Graph (`@29rdx`)
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/216e39/29rdx" alt="29rdx Real GitHub Contributions" width="100%" />
-</div>
-
-<p align="center">
-  <em>1,560 verified contributions in the past year • 12 merged pull requests across production repositories</em>
-</p>
-
----
 
 ## 🌐 Verified Merged Open-Source Upstream Contributions
 
