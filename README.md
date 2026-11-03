@@ -16,9 +16,9 @@
 
 
 
-## 🌐 Verified Merged Open-Source Upstream Contributions
+## 🌐 Open-Source Upstream Contributions
 
-Direct production code contributions reviewed and merged into external open-source ecosystems:
+Contributions submitted to external open-source projects, with their current status:
 
 * **[calibrain/shelfmark #1632](https://github.com/calibrain/shelfmark/pull/1632)** [![Merged](https://img.shields.io/badge/PR_1632-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/calibrain/shelfmark/pull/1632)  
   *High-Throughput Spooled Disk Buffering*: Re-engineered memory buffering for heavy debrid streaming pipelines using disk-backed spooled temporary file buffers, eliminating out-of-memory crashes on resource-constrained servers. Collaborated with upstream maintainers on stream cancellation disposal and regression tests. **Merged into upstream master.**
@@ -26,13 +26,13 @@ Direct production code contributions reviewed and merged into external open-sour
 * **[nikhilrai-tech/Nigrani #45](https://github.com/nikhilrai-tech/Nigrani/pull/45)** [![Merged](https://img.shields.io/badge/PR_45-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/45)  
   *Fractional Telemetry & Metric Scaling Engine*: Implemented dynamic ratio unit scaling (`unit: ratio`) for system metrics, unified telemetry chart scaling, and authored full frontend/backend regression suites with all 230 tests passing. **Merged into upstream main.**
 
-* **[nikhilrai-tech/Nigrani #48](https://github.com/nikhilrai-tech/Nigrani/pull/48)** [![Open PR](https://img.shields.io/badge/PR_48-OPEN-2ea44f?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/48)  
-  *In-Cluster Kubernetes Deployment Bundle*: Authored full Kubernetes deployment suite under `examples/kubernetes-deploy.yaml` (Deployment, ClusterIP Service, ConfigMap with auto serviceAccount/CA discovery, and Secret) addressing Issue #44.
+* **[nikhilrai-tech/Nigrani #48](https://github.com/nikhilrai-tech/Nigrani/pull/48)** [![Closed](https://img.shields.io/badge/PR_48-CLOSED-lightgrey?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/48)  
+  *In-Cluster Kubernetes Deployment Bundle*: Authored full Kubernetes deployment suite under `examples/kubernetes-deploy.yaml` (Deployment, ClusterIP Service, ConfigMap with auto serviceAccount/CA discovery, and Secret) addressing Issue #44. **Closed without merge after the project adopted a Helm chart.**
 
 * **[AaronCreor/PyFuncAI #6](https://github.com/AaronCreor/PyFuncAI/pull/6)** [![Merged](https://img.shields.io/badge/PR_6-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/AaronCreor/PyFuncAI/pull/6)  
   *Structured Cache Metadata Validation*: Implemented structured JSON metadata extraction and validation for offline AI caching environments, backed by comprehensive unit test coverage. **Merged into upstream master.**
 
-* **[OWASP/CheatSheetSeries #2892](https://github.com/OWASP/CheatSheetSeries/pull/2892)** [![Under Review](https://img.shields.io/badge/PR_2892-UNDER_REVIEW-e3b341?style=flat-square&logo=git&logoColor=white)](https://github.com/OWASP/CheatSheetSeries/pull/2892)  
+* **[OWASP/CheatSheetSeries #2892](https://github.com/OWASP/CheatSheetSeries/pull/2892)** [![Closed](https://img.shields.io/badge/PR_2892-CLOSED-lightgrey?style=flat-square&logo=git&logoColor=white)](https://github.com/OWASP/CheatSheetSeries/pull/2892)  
   *XSS Filter Evasion Security Normalization*: Addressed OWASP tracking issue #2792 by removing legacy server-side execution vectors (SSI/PHP) from client-side XSS filter evasion docs and standardizing payload syntax across security consoles.
 
 ---
