@@ -18,7 +18,7 @@
 
 ## 🌐 Open-Source Upstream Contributions
 
-Contributions submitted to external open-source projects, with their current status:
+Contributions successfully merged into external open-source projects:
 
 * **[calibrain/shelfmark #1632](https://github.com/calibrain/shelfmark/pull/1632)** [![Merged](https://img.shields.io/badge/PR_1632-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/calibrain/shelfmark/pull/1632)  
   *High-Throughput Spooled Disk Buffering*: Re-engineered memory buffering for heavy debrid streaming pipelines using disk-backed spooled temporary file buffers, eliminating out-of-memory crashes on resource-constrained servers. Collaborated with upstream maintainers on stream cancellation disposal and regression tests. **Merged into upstream master.**
@@ -26,14 +26,8 @@ Contributions submitted to external open-source projects, with their current sta
 * **[nikhilrai-tech/Nigrani #45](https://github.com/nikhilrai-tech/Nigrani/pull/45)** [![Merged](https://img.shields.io/badge/PR_45-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/45)  
   *Fractional Telemetry & Metric Scaling Engine*: Implemented dynamic ratio unit scaling (`unit: ratio`) for system metrics, unified telemetry chart scaling, and authored full frontend/backend regression suites with all 230 tests passing. **Merged into upstream main.**
 
-* **[nikhilrai-tech/Nigrani #48](https://github.com/nikhilrai-tech/Nigrani/pull/48)** [![Closed](https://img.shields.io/badge/PR_48-CLOSED-lightgrey?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/48)  
-  *In-Cluster Kubernetes Deployment Bundle*: Authored full Kubernetes deployment suite under `examples/kubernetes-deploy.yaml` (Deployment, ClusterIP Service, ConfigMap with auto serviceAccount/CA discovery, and Secret) addressing Issue #44. **Closed without merge after the project adopted a Helm chart.**
-
 * **[AaronCreor/PyFuncAI #6](https://github.com/AaronCreor/PyFuncAI/pull/6)** [![Merged](https://img.shields.io/badge/PR_6-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/AaronCreor/PyFuncAI/pull/6)  
   *Structured Cache Metadata Validation*: Implemented structured JSON metadata extraction and validation for offline AI caching environments, backed by comprehensive unit test coverage. **Merged into upstream master.**
-
-* **[OWASP/CheatSheetSeries #2892](https://github.com/OWASP/CheatSheetSeries/pull/2892)** [![Closed](https://img.shields.io/badge/PR_2892-CLOSED-lightgrey?style=flat-square&logo=git&logoColor=white)](https://github.com/OWASP/CheatSheetSeries/pull/2892)  
-  *XSS Filter Evasion Security Normalization*: Addressed OWASP tracking issue #2792 by removing legacy server-side execution vectors (SSI/PHP) from client-side XSS filter evasion docs and standardizing payload syntax across security consoles.
 
 ---
 
@@ -45,7 +39,7 @@ Contributions submitted to external open-source projects, with their current sta
 | **[🛡️ Sentinel DPI Engine](https://github.com/29rdx/sentinel-dpi-engine)** | **High-Throughput Deep Packet Inspection** | C++17 wire-rate packet dissection engine: 802.1Q VLAN tag parsing, IPv6 extension headers, lock-free ring buffers, JA3 TLS Client Hello fingerprinter, and DNS entropy covert-channel detection. <br>`C++17` `Network Security` `DPI` `PCAP` | ![Passing](https://img.shields.io/badge/C%2B%2B17-Verified-2ea44f?style=flat-square) |
 | **[🛡️ CVE Analysis Vault](https://github.com/29rdx/cve-analysis-vault)** | **Vulnerability Research & Test Harnesses** | In-depth root-cause autopsies and safe test harnesses: CVE-2024-3094 (XZ IFUNC backdoor ELF scanner & YARA signatures), CVE-2023-4863 (libwebp Huffman heap overflow), and CVE-2023-44487 (HTTP/2 Rapid Reset). <br>`Python` `C++17` `AppSec` `Exploit Research` | ![Passing](https://img.shields.io/badge/Harnesses-Passing-2ea44f?style=flat-square) |
 | **[🛡️ Aegis Mesh Pay](https://github.com/29rdx/aegis-mesh-pay)** | **Zero-Connectivity Offline Payments** | Resilient offline payment gateway: Offline UPI, RSA-2048 + AES-GCM signed transaction vouchers, BLE binary mesh transport, SHA-256 Merkle tree ledger, and Bloom filter double-spend prevention. <br>`Java 17` `Spring Boot` `Cryptography` `Zero-Trust` | ![Passing](https://img.shields.io/badge/Maven_Test-Passing-2ea44f?style=flat-square) |
-| **[⚡ Distributed Telemetry Engine](https://github.com/29rdx/distributed-telemetry-engine)** | **Streaming Observability Pipeline** | High-concurrency telemetry ingestion engine: lock-free atomic CAS circular ring buffer, error-preserving tail sampler, reservoir P50/P90/P99 latency percentile estimator, and OpenTelemetry OTLP exporter. <br>`Go 1.22` `Observability` `Distributed Systems` | ![Passing](https://img.shields.io/badge/Go_Test-Verified-2ea44f?style=flat-square) |
+| **[🛰️ Nakshatra-X 3D Platform](https://github.com/29rdx/newNakshatra-x)** | **Geospatial Intelligence & Spectral Telemetry** | Interactive orbital 3D telemetry visualization, live mission control dashboard, and automated spectral band-ratio processing pipelines built for MOIL Limited (Smart India Hackathon). <br>`JavaScript` `HTML5` `CSS3` `Three.js` `REST APIs` | ![Passing](https://img.shields.io/badge/SIH_2026-Qualified-2ea44f?style=flat-square) |
 
 ---
 
@@ -53,7 +47,7 @@ Contributions submitted to external open-source projects, with their current sta
 
 ### **Team Head & Lead Architect — Team Nakshatra-X**
 *Smart India Hackathon (SIH 2026) • Ministry of Steel & MOIL Limited*  
-`Next.js 16` `TypeScript` `Three.js` `React Globe GL` `Supabase` `PostgreSQL` `STAC Sentinel-2`
+`JavaScript` `HTML5` `CSS3` `Three.js` `REST APIs` `STAC Sentinel-2`
 
 - **SIH Qualifier**: Successfully led Team Nakshatra-X through competitive university selection rounds for the Smart India Hackathon.
 - **Client & Problem**: Architected an orbital geospatial intelligence and sub-surface manganese prospectivity mapping platform for MOIL Limited.
@@ -64,10 +58,10 @@ Contributions submitted to external open-source projects, with their current sta
 
 ## 🛠️ Technical Competencies
 
-- **Languages:** C++17/20, Python, Go, Java 17, TypeScript, SQL, Bash
+- **Languages:** Python, Java 17, C++17/20, HTML5, CSS3, SQL, Bash
 - **Systems & Architecture:** Deep Packet Inspection (DPI), Lock-Free Ring Buffers, High-Concurrency APIs, Streaming Telemetry, Microservices
 - **Cybersecurity & Cryptography:** OWASP API Top 10, Zero-Trust Architecture, RSA-2048 / AES-GCM, Merkle Proofs, YARA Rule Authoring, Vulnerability Analysis
-- **Infrastructure & Tools:** Docker, Linux / POSIX APIs, GitHub Actions CI/CD, CMake, PostgreSQL, Supabase, Git
+- **Infrastructure & Tools:** Linux / POSIX APIs, Git, GitHub Actions CI/CD, Docker, MySQL, SQLite
 
 ---
 
