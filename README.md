@@ -26,10 +26,14 @@ Contributions successfully merged into external open-source projects:
 * **[nikhilrai-tech/Nigrani #45](https://github.com/nikhilrai-tech/Nigrani/pull/45)** [![Merged](https://img.shields.io/badge/PR_45-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/45)  
   *Fractional Telemetry & Metric Scaling Engine*: Implemented dynamic ratio unit scaling (`unit: ratio`) for system metrics, unified telemetry chart scaling, and authored full frontend/backend regression suites with all 230 tests passing. **Merged into upstream main.**
 
-* **[nikhilrai-tech/Nigrani #73](https://github.com/nikhilrai-tech/Nigrani/pull/73)** — Co-authored a merged change that labels New Relic alerts using FACET attribute names; the maintainer incorporated the idea from [PR #69](https://github.com/nikhilrai-tech/Nigrani/pull/69).
+* **[nikhilrai-tech/Nigrani #73](https://github.com/nikhilrai-tech/Nigrani/pull/73)** [![Merged](https://img.shields.io/badge/PR_73-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/nikhilrai-tech/Nigrani/pull/73)  
+  *New Relic Facet Labeling & Production Release*: Implemented dynamic NRQL facet attribute labelling, merged into `main` with official upstream co-authorship and credited in the production `v0.8.0` release notes.
 
 * **[AaronCreor/PyFuncAI #6](https://github.com/AaronCreor/PyFuncAI/pull/6)** [![Merged](https://img.shields.io/badge/PR_6-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/AaronCreor/PyFuncAI/pull/6)  
   *Structured Cache Metadata Validation*: Implemented structured JSON metadata extraction and validation for offline AI caching environments, backed by comprehensive unit test coverage. **Merged into upstream master.**
+
+* **[OWASP/CheatSheetSeries #2918](https://github.com/OWASP/CheatSheetSeries/pull/2918)** [![Under Review](https://img.shields.io/badge/PR_2918-OFFICIALLY_SUBMITTED-e3b341?style=flat-square&logo=git&logoColor=white)](https://github.com/OWASP/CheatSheetSeries/pull/2918)  
+  *XSS Filter Evasion Security Normalization*: Addressed OWASP tracking issue #2792 (officially assigned to @29rdx), standardizing payload syntax across security consoles and normalizing WAF bypass strings.
 
 ---
 
