@@ -22,6 +22,7 @@
 
 | Repository | Stars | Pull Request | Stack | Status | Date |
 | :--- | :---: | :--- | :---: | :---: | :---: |
+| **[OWASP/Nettacker](https://github.com/OWASP/Nettacker)** | ⭐ 5,722 | [fix(http): use time.perf_counter for monotonic response-time measurements (#1859)](https://github.com/OWASP/Nettacker/pull/1864) | `Python` | 🟢 **Open / Review** | Nov 2026 |
 | **[OWASP/owasp-ctf-in-a-box](https://github.com/OWASP/owasp-ctf-in-a-box)** | ⭐ 24 | [fix(docker): exclude nested env files from root build context (#749)](https://github.com/OWASP/owasp-ctf-in-a-box/pull/755) | `TypeScript` | 🟢 **Open / Review** | Nov 2026 |
 | **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | ⭐ 34,024 | [docs(xss): normalize quotes and apostrophe in WAF bypass strings (#2792)](https://github.com/OWASP/CheatSheetSeries/pull/2918) | `JavaScript` | 🟣 **Merged** | Nov 2026 |
 | **[AaronCreor/PyFuncAI](https://github.com/AaronCreor/PyFuncAI)** | ⭐ 1 | [docs(readme): add table of contents navigation](https://github.com/AaronCreor/PyFuncAI/pull/12) | `Python` | 🟣 **Merged** | Nov 2026 |
