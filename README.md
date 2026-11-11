@@ -18,7 +18,7 @@
 
 ## 🌐 Open-Source Upstream Contributions
 
-Contributions successfully merged into external open-source projects:
+Contributions to external open-source projects:
 
 * **[calibrain/shelfmark #1632](https://github.com/calibrain/shelfmark/pull/1632)** [![Merged](https://img.shields.io/badge/PR_1632-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/calibrain/shelfmark/pull/1632)  
   *High-Throughput Spooled Disk Buffering*: Re-engineered memory buffering for heavy debrid streaming pipelines using disk-backed spooled temporary file buffers, eliminating out-of-memory crashes on resource-constrained servers. Collaborated with upstream maintainers on stream cancellation disposal and regression tests. **Merged into upstream master.**
@@ -32,7 +32,9 @@ Contributions successfully merged into external open-source projects:
 * **[AaronCreor/PyFuncAI #6](https://github.com/AaronCreor/PyFuncAI/pull/6)** [![Merged](https://img.shields.io/badge/PR_6-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/AaronCreor/PyFuncAI/pull/6)  
   *Structured Cache Metadata Validation*: Implemented structured JSON metadata extraction and validation for offline AI caching environments, backed by comprehensive unit test coverage. **Merged into upstream master.**
 
-* **[OWASP/CheatSheetSeries #2918](https://github.com/OWASP/CheatSheetSeries/pull/2918)** [![Under Review](https://img.shields.io/badge/PR_2918-OFFICIALLY_SUBMITTED-e3b341?style=flat-square&logo=git&logoColor=white)](https://github.com/OWASP/CheatSheetSeries/pull/2918)  
+* **[AaronCreor/PyFuncAI #12](https://github.com/AaronCreor/PyFuncAI/pull/12)** — Added a table of contents for README navigation. **Merged.**
+
+* **[OWASP/CheatSheetSeries #2918](https://github.com/OWASP/CheatSheetSeries/pull/2918)** [![Merged](https://img.shields.io/badge/PR_2918-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/OWASP/CheatSheetSeries/pull/2918)  
   *XSS Filter Evasion Security Normalization*: Addressed OWASP tracking issue #2792 (officially assigned to @29rdx), standardizing payload syntax across security consoles and normalizing WAF bypass strings.
 
 ---
