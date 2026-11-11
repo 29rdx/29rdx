@@ -18,7 +18,21 @@
 
 ## 🌐 Open-Source Upstream Contributions
 
-Contributions to external open-source projects:
+<!-- OSS-PRS:START -->
+
+| Repository | Stars | Pull Request | Stack | Status | Date |
+| :--- | :---: | :--- | :---: | :---: | :---: |
+| **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | ⭐ 34,024 | [docs(xss): normalize quotes and apostrophe in WAF bypass strings (#2792)](https://github.com/OWASP/CheatSheetSeries/pull/2918) | `JavaScript` | 🟣 **Merged** | Nov 2026 |
+| **[AaronCreor/PyFuncAI](https://github.com/AaronCreor/PyFuncAI)** | ⭐ 1 | [docs(readme): add table of contents navigation](https://github.com/AaronCreor/PyFuncAI/pull/12) | `Python` | 🟣 **Merged** | Nov 2026 |
+| **[calibrain/shelfmark](https://github.com/calibrain/shelfmark)** | ⭐ 4,138 | [Spool large debrid downloads to disk](https://github.com/calibrain/shelfmark/pull/1632) | `Python` | 🟣 **Merged** | Nov 2026 |
+| **[AaronCreor/PyFuncAI](https://github.com/AaronCreor/PyFuncAI)** | ⭐ 1 | [Add JSON metadata output to cache list](https://github.com/AaronCreor/PyFuncAI/pull/6) | `Python` | 🟣 **Merged** | Nov 2026 |
+| **[nikhilrai-tech/Nigrani](https://github.com/nikhilrai-tech/Nigrani)** | ⭐ 0 | [Add ratio unit for fractional metrics](https://github.com/nikhilrai-tech/Nigrani/pull/45) | `Python` | 🟣 **Merged** | Nov 2026 |
+| **[alisolanki/Welcome-to-Open-Source](https://github.com/alisolanki/Welcome-to-Open-Source)** | ⭐ 3,978 | [Add Rupraj Datta to Contributors](https://github.com/alisolanki/Welcome-to-Open-Source/pull/4992) | `Multi-Stack` | 🟢 **Open / Review** | Nov 2026 |
+| **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | ⭐ 56,802 | [Add Rupraj Datta to Contributors](https://github.com/firstcontributions/first-contributions/pull/127760) | `Multi-Stack` | 🟣 **Merged** | Nov 2026 |
+
+<!-- OSS-PRS:END -->
+
+### Featured Contributions Detail
 
 * **[calibrain/shelfmark #1632](https://github.com/calibrain/shelfmark/pull/1632)** [![Merged](https://img.shields.io/badge/PR_1632-MERGED-8957e5?style=flat-square&logo=git&logoColor=white)](https://github.com/calibrain/shelfmark/pull/1632)  
   *High-Throughput Spooled Disk Buffering*: Re-engineered memory buffering for heavy debrid streaming pipelines using disk-backed spooled temporary file buffers, eliminating out-of-memory crashes on resource-constrained servers. Collaborated with upstream maintainers on stream cancellation disposal and regression tests. **Merged into upstream master.**
