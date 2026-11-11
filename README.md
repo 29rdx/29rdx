@@ -10,12 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-dattarupraj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com)
 [![X](https://img.shields.io/badge/X-@Rupraj29-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Rupraj29)
 
-<p align="center">
-  <a href="https://github.com/29rdx">
-    <img src="assets/contributions-graph.jpg" alt="Rupraj Datta Official GitHub Contribution Graph (1,586 contributions in the last year)" width="100%">
-  </a>
-</p>
-
 > **🎯 Executive Objective**: Actively seeking **Software Engineering Internships** and **Early Career Systems / Backend / AppSec Roles** (2026/2027). Focused on high-concurrency architectures, network packet inspection (DPI), OWASP API security hardening, and resilient distributed protocols. Open to on-site, hybrid, or remote opportunities globally.
 
 ---
