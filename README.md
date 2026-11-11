@@ -10,6 +10,12 @@
 [![Email](https://img.shields.io/badge/Email-dattarupraj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com)
 [![X](https://img.shields.io/badge/X-@Rupraj29-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Rupraj29)
 
+<p align="center">
+  <a href="https://github.com/29rdx">
+    <img src="assets/contributions-graph.jpg" alt="Rupraj Datta Official GitHub Contribution Graph (1,586 contributions in the last year)" width="100%">
+  </a>
+</p>
+
 > **🎯 Executive Objective**: Actively seeking **Software Engineering Internships** and **Early Career Systems / Backend / AppSec Roles** (2026/2027). Focused on high-concurrency architectures, network packet inspection (DPI), OWASP API security hardening, and resilient distributed protocols. Open to on-site, hybrid, or remote opportunities globally.
 
 ---
@@ -22,11 +28,11 @@
 
 | Repository | Pull Request | Stack | Status | Date |
 | :--- | :--- | :---: | :---: | :---: |
+| 🐍 **[calibrain/shelfmark](https://github.com/calibrain/shelfmark)** | **[Spool large debrid downloads to disk](https://github.com/calibrain/shelfmark/pull/1632)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
+| 🐍 **[AaronCreor/PyFuncAI](https://github.com/AaronCreor/PyFuncAI)** | **[Add JSON metadata output to cache list](https://github.com/AaronCreor/PyFuncAI/pull/6)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
+| 🐍 **[nikhilrai-tech/Nigrani](https://github.com/nikhilrai-tech/Nigrani)** | **[Add ratio unit for fractional metrics](https://github.com/nikhilrai-tech/Nigrani/pull/45)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
 | **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | [Add Rupraj Datta to Contributors](https://github.com/firstcontributions/first-contributions/pull/127760) | `Multi-Stack` | 🟣 **Merged** | Nov 2026 |
 | **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | [docs(xss): normalize quotes and apostrophe in WAF bypass strings (#2792)](https://github.com/OWASP/CheatSheetSeries/pull/2918) | `JavaScript` | 🟣 **Merged** | Nov 2026 |
-| **[calibrain/shelfmark](https://github.com/calibrain/shelfmark)** | [Spool large debrid downloads to disk](https://github.com/calibrain/shelfmark/pull/1632) | `Python` | 🟣 **Merged** | Nov 2026 |
-| **[AaronCreor/PyFuncAI](https://github.com/AaronCreor/PyFuncAI)** | [Add JSON metadata output to cache list](https://github.com/AaronCreor/PyFuncAI/pull/6) | `Python` | 🟣 **Merged** | Nov 2026 |
-| **[nikhilrai-tech/Nigrani](https://github.com/nikhilrai-tech/Nigrani)** | [Add ratio unit for fractional metrics](https://github.com/nikhilrai-tech/Nigrani/pull/45) | `Python` | 🟣 **Merged** | Nov 2026 |
 
 <!-- OSS-PRS:END -->
 
