@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dattarupraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattarupraj)
 [![Email](https://img.shields.io/badge/Email-dattarupraj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com)
 [![Status](https://img.shields.io/badge/Focus-Backend_%26_Security_Engineering-2ea44f?style=flat-square)](mailto:dattarupraj@gmail.com)
+[![Peer Review](https://img.shields.io/badge/Peer_Review-OWASP_Contributor-005571?style=flat-square&logo=owasp)](https://github.com/OWASP/cve-lite-cli/pull/1682#pullrequestreview-5914777167)
 
 ---
 
@@ -39,6 +40,15 @@
 | **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | [docs(xss): normalize quotes and apostrophe in WAF bypass strings (#2792)](https://github.com/OWASP/CheatSheetSeries/pull/2918) | `JavaScript` | 🟣 **Merged** | Nov 2026 |
 
 <!-- OSS-PRS:END -->
+
+---
+
+## 🔍 Open-Source Peer Review & Collaboration
+
+| Repository | Review Context & Technical Scope | Role | Proof Link |
+| :--- | :--- | :---: | :---: |
+| 🛡️ **[OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli)** | Prototype chain inheritance audit on dependency filtering (`package-json.ts`) | Peer Reviewer | [Review #1682](https://github.com/OWASP/cve-lite-cli/pull/1682#pullrequestreview-5914777167) |
+| 🛡️ **[OWASP/owasp-ctf-in-a-box](https://github.com/OWASP/owasp-ctf-in-a-box)** | Container build isolation & recursive secret file exclusion (#749) | Author / Assignee | [PR #755](https://github.com/OWASP/owasp-ctf-in-a-box/pull/755) |
 
 ---
 
