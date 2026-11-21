@@ -48,7 +48,7 @@
 | Repository | Review Context & Technical Scope | Role | Proof Link |
 | :--- | :--- | :---: | :---: |
 | 🛡️ **[OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli)** | Prototype chain inheritance audit on dependency filtering (`package-json.ts`) | Peer Reviewer | [Review #1682](https://github.com/OWASP/cve-lite-cli/pull/1682#pullrequestreview-5914777167) |
-| 🛡️ **[OWASP/owasp-ctf-in-a-box](https://github.com/OWASP/owasp-ctf-in-a-box)** | Container build isolation & recursive secret file exclusion (#749) | Author / Assignee | [PR #755](https://github.com/OWASP/owasp-ctf-in-a-box/pull/755) |
+| 🛡️ **[OWASP/owasp-ctf-in-a-box](https://github.com/OWASP/owasp-ctf-in-a-box)** | Container build isolation & recursive secret file exclusion (#749) | Author / Assignee | [PR #755](https://github.com/OWASP/owasp-ctf-in-a-box/pull/755) (merged) |
 
 ---
 
