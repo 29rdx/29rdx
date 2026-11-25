@@ -1,69 +1,71 @@
 # Rupraj Datta
 
-<p align="left">
-  <strong>Backend Software Engineer &amp; Cybersecurity Specialist</strong><br>
-  <em>High-Concurrency Systems • Application Security (AppSec) • Distributed Infrastructure</em><br>
-  Bennett University — Greater Noida, India
-</p>
+**Backend & Cybersecurity Engineer** · Python · Java · C++17 · Go  
+Greater Noida, India
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-29rdx-181717?style=flat-square&logo=github)](https://github.com/29rdx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dattarupraj-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dattarupraj)
 [![Email](https://img.shields.io/badge/Email-dattarupraj@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dattarupraj@gmail.com)
-[![Status](https://img.shields.io/badge/Focus-Backend_%26_Security_Engineering-2ea44f?style=flat-square)](mailto:dattarupraj@gmail.com)
-[![Peer Review](https://img.shields.io/badge/Peer_Review-OWASP_Contributor-005571?style=flat-square&logo=owasp)](https://github.com/OWASP/cve-lite-cli/pull/1682#pullrequestreview-5914777167)
+[![OWASP](https://img.shields.io/badge/OWASP-Contributor_&_Reviewer-005571?style=flat-square&logo=owasp)](https://github.com/OWASP/cve-lite-cli/pull/1682#pullrequestreview-5914777167)
+
+<br>
 
 ---
 
-## ⚡ Engineering Impact: Problem → Solution → Proof
+<br>
 
-| Project / Ecosystem | Problem Addressed | Engineering Solution | Empirical Proof & Validation |
-| :--- | :--- | :--- | :---: |
-| **[🛡️ Backend Security Sentinel](https://github.com/29rdx/backend-security-sentinel)**<br>`Python` `FastAPI` `DevSecOps` | OWASP API Top 10 risks (BOLA, SSRF cloud metadata leaks, JWT key confusion) evade surface-level linters. | Built an automated AST & entropy-driven vulnerability scanner with Shannon entropy secret extraction and automated auth-header fuzzing. | ![Passing](https://img.shields.io/badge/41_Suites-Passing-2ea44f?style=flat-square)<br>Zero false-positive auth tests |
-| **[🛡️ Sentinel DPI Engine](https://github.com/29rdx/sentinel-dpi-engine)**<br>`C++17` `CMake` `PCAP` `DPI` | Kernel-space packet processing causes high packet-drop rates under wire-rate throughput. | Architected a user-space C++17 packet dissector with lock-free ring buffers, 802.1Q VLAN parsing, JA3 TLS fingerprinter, and DNS covert entropy checks. | ![Passing](https://img.shields.io/badge/10_Subsystems-Passing-2ea44f?style=flat-square)<br>Deterministic CTest pass |
-| **[🛡️ Aegis Mesh Pay](https://github.com/29rdx/aegis-mesh-pay)**<br>`Java 27` `Spring Boot` `Crypto` | Financial transactions in zero-connectivity / offline environments suffer from double-spending risks. | Implemented an offline payment gateway with RSA-2048 + AES-GCM signed vouchers, BLE binary mesh framing, and Bloom filter revocation lists. | ![Passing](https://img.shields.io/badge/7_Suites-Passing-2ea44f?style=flat-square)<br>All tests green in 4.2s |
-| **[🐍 pallets/click #3914](https://github.com/pallets/click/issues/3914)**<br>`Python` `CLI Core` `PSF` | CLI runtime error hints silently omitted `auto_envvar_prefix` when required options were missing. | Surgically patched `Option.get_error_hint` to resolve context prefixes when `show_envvar=True`; added positive & negative test coverage. | ![Passing](https://img.shields.io/badge/2,623_Tests-Passing-2ea44f?style=flat-square)<br>[PR Compare Package](https://github.com/pallets/click/compare/main...29rdx:click:fix/3914-auto-envvar-error-hint?expand=1) |
-| **[🐍 calibrain/shelfmark #1632](https://github.com/calibrain/shelfmark/pull/1632)**<br>`Python` `Systems` `Streaming` | Large debrid streaming downloads triggered out-of-memory (OOM) fatal crashes on constrained servers. | Re-engineered memory buffers to disk-backed `SpooledTemporaryFile` streaming pipelines with safe cancellation disposal. | ![Merged](https://img.shields.io/badge/PR_1632-Merged-8957e5?style=flat-square)<br>Merged into upstream master |
-| **[🛰️ Team Nakshatra-X](https://github.com/29rdx/newNakshatra-x)**<br>`TypeScript` `Three.js` `GIS` | Sub-surface manganese exploration lacked real-time spectral telemetry processing for field mining teams. | Directed engineering for MOIL Limited (SIH 2026), building automated ESA Sentinel-2 band-ratio pipelines and interactive 3D Earth telemetry. | ![Qualified](https://img.shields.io/badge/SIH_2026-Qualified-2ea44f?style=flat-square)<br>Team Lead & Architect |
+## Selected Security & Systems Work
+
+<br>
+
+| Project | Stack | Focus | Verified Status |
+| :--- | :---: | :--- | :---: |
+| **[Zero-Trust API Gateway](https://github.com/29rdx/zero-trust-api-gateway)** | `Python` | SSRF/DNS-rebinding, JWT, HMAC, Rate Limiter | **6 PRs Merged** · 32 Tests |
+| **[JavaGuard SAST](https://github.com/29rdx/javaguard-sast)** | `Java 21` | Static scanner for SQLi, XXE, Deser, Secrets, TLS | **5 PRs Merged** · 10 Tests |
+| **[Backend Security Sentinel](https://github.com/29rdx/backend-security-sentinel)** | `Python` | OWASP API Top 10 AST & entropy auditor | 41 Suites Passing |
+| **[Sentinel DPI Engine](https://github.com/29rdx/sentinel-dpi-engine)** | `C++17` | User-space packet dissector & JA3 fingerprinter | CTest Passing |
+| **[Aegis Mesh Pay](https://github.com/29rdx/aegis-mesh-pay)** | `Java` | Offline RSA-2048 + AES-GCM BLE payment mesh | 7 Suites Passing |
+
+<br>
 
 ---
 
-## 🌐 Verified Upstream Contributions
+<br>
+
+## Verified Open-Source Merges
+
+<br>
 
 <!-- OSS-PRS:START -->
 
 | Repository | Pull Request | Stack | Status | Date |
 | :--- | :--- | :---: | :---: | :---: |
+| 🐍 **[29rdx/zero-trust-api-gateway](https://github.com/29rdx/zero-trust-api-gateway)** | **[SSRF, JWT, RateLimit, HMAC, Sanitizer & Policy Engine (#7–#12)](https://github.com/29rdx/zero-trust-api-gateway/pulls?q=is%3Apr+is%3Amerged)** | `🐍 Python` | 🟣 **6 Merged** | Nov 2026 |
+| ☕ **[29rdx/javaguard-sast](https://github.com/29rdx/javaguard-sast)** | **[SQLi, XXE, Deserialization, Crypto & Secrets/TLS Rules (#6–#10)](https://github.com/29rdx/javaguard-sast/pulls?q=is%3Apr+is%3Amerged)** | `☕ Java 21` | 🟣 **5 Merged** | Nov 2026 |
 | 🐍 **[calibrain/shelfmark](https://github.com/calibrain/shelfmark)** | **[Spool large debrid downloads to disk](https://github.com/calibrain/shelfmark/pull/1632)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
+| 🛡️ **[OWASP/owasp-ctf-in-a-box](https://github.com/OWASP/owasp-ctf-in-a-box)** | **[fix(docker): exclude nested env files from root build context](https://github.com/OWASP/owasp-ctf-in-a-box/pull/755)** | `Docker` | 🟣 **Merged** | Nov 2026 |
+| 🛡️ **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | **[docs(xss): normalize quotes in WAF bypass strings](https://github.com/OWASP/CheatSheetSeries/pull/2918)** | `Security` | 🟣 **Merged** | Nov 2026 |
 | 🐍 **[AaronCreor/PyFuncAI](https://github.com/AaronCreor/PyFuncAI)** | **[Add JSON metadata output to cache list](https://github.com/AaronCreor/PyFuncAI/pull/6)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
 | 🐍 **[nikhilrai-tech/Nigrani](https://github.com/nikhilrai-tech/Nigrani)** | **[Add ratio unit for fractional metrics](https://github.com/nikhilrai-tech/Nigrani/pull/45)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
-| **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | [Add Rupraj Datta to Contributors](https://github.com/firstcontributions/first-contributions/pull/127760) | `Multi-Stack` | 🟣 **Merged** | Nov 2026 |
-| **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | [docs(xss): normalize quotes and apostrophe in WAF bypass strings (#2792)](https://github.com/OWASP/CheatSheetSeries/pull/2918) | `JavaScript` | 🟣 **Merged** | Nov 2026 |
 
 <!-- OSS-PRS:END -->
 
----
+<br>
 
-## 🔍 Open-Source Peer Review & Collaboration
+> **Peer Review:** Audited prototype chain inheritance on dependency filtering in **[OWASP/cve-lite-cli #1682](https://github.com/OWASP/cve-lite-cli/pull/1682#pullrequestreview-5914777167)**.
 
-| Repository | Review Context & Technical Scope | Role | Proof Link |
-| :--- | :--- | :---: | :---: |
-| 🛡️ **[OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli)** | Prototype chain inheritance audit on dependency filtering (`package-json.ts`) | Peer Reviewer | [Review #1682](https://github.com/OWASP/cve-lite-cli/pull/1682#pullrequestreview-5914777167) |
-| 🛡️ **[OWASP/owasp-ctf-in-a-box](https://github.com/OWASP/owasp-ctf-in-a-box)** | Container build isolation & recursive secret file exclusion (#749) | Author / Assignee | [PR #755](https://github.com/OWASP/owasp-ctf-in-a-box/pull/755) |
+<br>
 
 ---
 
-## 🛠️ Core Technical Competencies
+<br>
 
-- **Languages:** Python (3.9 - 3.14), C++17/20, Java (17 / 27), Go, SQL, Bash
-- **Backend & Systems:** Deep Packet Inspection (DPI), High-Concurrency APIs, Lock-Free Data Structures, Streaming Telemetry, Microservices
-- **Security & Cryptography:** OWASP API Top 10, Zero-Trust Architecture, RSA-2048 / AES-GCM, Merkle Proofs, YARA Rule Authoring, Exploit Autopsies
-- **Tooling & Infrastructure:** Linux / POSIX APIs, Git (Worktrees), Docker, GitHub Actions CI/CD, CMake, Maven, Pytest
+## Core Stack
 
----
+<br>
 
-## 📬 Contact & Connect
-
-- 📧 **Email:** [dattarupraj@gmail.com](mailto:dattarupraj@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/dattarupraj](https://www.linkedin.com/in/dattarupraj)
-- 💻 **GitHub:** [github.com/29rdx](https://github.com/29rdx)
-- 📍 **Location:** Greater Noida, India
+- **Languages:** Python · Java · C++17 · Go · SQL
+- **Security:** OWASP Top 10 · Zero-Trust APIs · SAST · Cryptography · DPI
+- **Infrastructure:** Linux · Docker · GitHub Actions · Maven · Pytest · CMake
