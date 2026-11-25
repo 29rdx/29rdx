@@ -1,6 +1,6 @@
 # Rupraj Datta
 
-**Backend & Cybersecurity Engineer** · Python · Java · C++17 · Go  
+**Backend & Cybersecurity Engineer** · Python · Java · C++17   
 Greater Noida, India
 
 <br>
