@@ -33,11 +33,9 @@
 
 | Repository | Pull Request | Stack | Status | Date |
 | :--- | :--- | :---: | :---: | :---: |
+| 🛡️ **[OWASP/owasp-ctf-in-a-box](https://github.com/OWASP/owasp-ctf-in-a-box)** | **[fix(docker): exclude nested env files from root build context (#749)](https://github.com/OWASP/owasp-ctf-in-a-box/pull/755)** | `Docker / Security` | 🟣 **Merged** | Nov 2026 |
+| 🛡️ **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | **[docs(xss): normalize quotes and apostrophe in WAF bypass strings (#2792)](https://github.com/OWASP/CheatSheetSeries/pull/2918)** | `OWASP / AppSec` | 🟣 **Merged** | Nov 2026 |
 | 🐍 **[calibrain/shelfmark](https://github.com/calibrain/shelfmark)** | **[Spool large debrid downloads to disk](https://github.com/calibrain/shelfmark/pull/1632)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
-| 🐍 **[AaronCreor/PyFuncAI](https://github.com/AaronCreor/PyFuncAI)** | **[Add JSON metadata output to cache list](https://github.com/AaronCreor/PyFuncAI/pull/6)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
-| 🐍 **[nikhilrai-tech/Nigrani](https://github.com/nikhilrai-tech/Nigrani)** | **[Add ratio unit for fractional metrics](https://github.com/nikhilrai-tech/Nigrani/pull/45)** | `🐍 Python` | 🟣 **Merged** | Nov 2026 |
-| **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)** | [Add Rupraj Datta to Contributors](https://github.com/firstcontributions/first-contributions/pull/127760) | `Multi-Stack` | 🟣 **Merged** | Nov 2026 |
-| **[OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)** | [docs(xss): normalize quotes and apostrophe in WAF bypass strings (#2792)](https://github.com/OWASP/CheatSheetSeries/pull/2918) | `JavaScript` | 🟣 **Merged** | Nov 2026 |
 
 <!-- OSS-PRS:END -->
 
